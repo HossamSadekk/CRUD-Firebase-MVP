@@ -9,7 +9,5 @@ This is a practice project , i tried to implemented here MVP architecture patter
 - MVP
 
 ## Project Structure
-<img
-src=“E:\Capture2”
-”
-/>
+![Capture2 JPG](https://user-images.githubusercontent.com/66652255/99554446-e0b32680-29c7-11eb-8c53-98b675baeded.jpg)
+
